@@ -7,3 +7,4 @@ import pandas as pd
 df = pd.read_csv('datos_olist.csv')
 print(df.head())
 ```
+<img width="862" height="473" alt="image" src="https://github.com/user-attachments/assets/239ca0a1-7e44-4f3f-9ad3-3dc4df02d036" />
