@@ -12,6 +12,28 @@ The analysis follows a structured end-to-end data analytics workflow, including 
 
 A key component of this project is data quality validation, as certain variables—particularly price—show patterns that may not fully reflect realistic market behavior.
 
+# Objectives
+
+The analysis aims to answer the following questions:
+
+How is Airbnb supply distributed across boroughs?
+What is the distribution of room types?
+How do review activity and listing availability vary across locations?
+Can pricing insights be considered reliable given the dataset quality?
+
+# Methodology
+
+The project follows a structured analytical workflow:
+
+*1) Business Understanding
+Data Understanding
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Insights Generation
+Preparation for Visualization
+Dashboard Development
+
+A data quality assessment step was incorporated to evaluate the reliability of key variables.
 ```python
 import pandas as pd
 df = pd.read_csv('datos_olist.csv')
