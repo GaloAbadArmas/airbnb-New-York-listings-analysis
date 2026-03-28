@@ -53,6 +53,15 @@ During the Exploratory Data Analysis (Step 4) and initial Insights Generation (S
 
 ---
 
+## Tools Used
+
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+- **Jupyter Notebook**
+
+---
 ## Data Understanding
 
 The initial review focused on:
@@ -286,16 +295,6 @@ For this reason, the final interpretation distinguishes between:
 - **Cautionary insights**: findings that may reflect dataset limitations rather than real market patterns
 
 This validation step improves the credibility of the project and demonstrates analytical judgment beyond basic EDA.
-
----
-
-## Tools Used
-
-- **Python**
-- **Pandas**
-- **Matplotlib**
-- **Seaborn**
-- **Jupyter Notebook**
 
 ---
 
