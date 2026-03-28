@@ -19,7 +19,7 @@ A key component of this project is data quality validation, as certain variables
 
 - [View the main notebook](notebooks/NYC_Airbnb_Market_Analysis.ipynb)
 - [Data Quality Report](reports/data_quality_report.md)
-- 
+
 ---
 
 # Objectives
