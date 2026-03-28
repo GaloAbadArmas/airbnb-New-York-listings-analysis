@@ -2,7 +2,7 @@
 
 ## Business Context: What is Airbnb?
 
-[Airbnb, Inc.](/airbnb.com) is an American company based in San Francisco that revolutionized the hospitality industry. It operates a peer-to-peer (P2P) online marketplace that connects people who want to rent out their homes (hosts) with people who are looking for accommodations in that locale (guests).
+[Airbnb, Inc.](https://www.airbnb.com) is an American company based in San Francisco that revolutionized the hospitality industry. It operates a peer-to-peer (P2P) online marketplace that connects people who want to rent out their homes (hosts) with people who are looking for accommodations in that locale (guests).
 
 # Project Overview
 
