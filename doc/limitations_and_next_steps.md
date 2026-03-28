@@ -16,7 +16,7 @@ Because of these limitations, the strongest conclusions are restricted to descri
 
 ## Next Steps
 
-If a more reliable dataset were available, future analysis could include:
+With a more reliable dataset available, future analysis could include:
 
 - neighborhood-level segmentation
 - more robust pricing analysis
