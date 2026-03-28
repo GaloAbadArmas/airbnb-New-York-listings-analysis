@@ -1,0 +1,15 @@
+# Dataset Information: NYC Airbnb Open Data
+
+## Source
+The data used in this project is sourced from Kaggle: 
+[Airbnb Open Data - NYC](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
+
+## Description
+This dataset includes listing activity and metrics in NYC, New York, for 2022. It contains information about hosts, geographical availability, and price metrics.
+
+## Data Dictionary (Key Variables)
+The following data dictionary serves as a technical reference to ensure the correct interpretation and application of each variable in the dataset.
+https://docs.google.com/spreadsheets/d/1b_dvmyhb_kAJhUmv81rAxl4KcXn0Pymz
+
+## Usage Note
+Due to GitHub's file size limitations, the raw CSV file (`Airbnb_Open_Data.csv`) is not tracked in this repository. You can download the official version from the Kaggle link above.
