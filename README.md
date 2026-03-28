@@ -25,7 +25,7 @@ Can pricing insights be considered reliable given the dataset quality?
 
 The project follows a structured analytical workflow:
 
-*1) Business Understanding
+1. Business Understanding
 Data Understanding
 Data Cleaning
 Exploratory Data Analysis (EDA)
