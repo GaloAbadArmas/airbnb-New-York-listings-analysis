@@ -15,6 +15,12 @@ The analysis follows a structured end-to-end data analytics workflow, including 
 A key component of this project is data quality validation, as certain variables (particularly price) show patterns that may not fully reflect realistic market behavior.
 
 ---
+## Project Files
+
+- [View the main notebook](notebooks/NYC_Airbnb_Market_Analysis.ipynb)
+- [Data Quality Report](reports/data_quality_report.md)
+- 
+---
 
 # Objectives
 
