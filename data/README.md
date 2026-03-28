@@ -5,7 +5,7 @@ The data used in this project is sourced from Kaggle:
 [Airbnb Open Data - NYC](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
 
 ## Description
-This dataset includes listing activity and metrics in NYC, New York, for 2022. It contains information about hosts, geographical availability, and price metrics.
+This dataset includes listing activity and metrics in NYC, New York. It contains information about hosts, geographical availability, and price metrics.
 
 ## Data Dictionary (Key Variables)
 This guide provides the necessary definitions and context to understand how to work with the provided data fields.
