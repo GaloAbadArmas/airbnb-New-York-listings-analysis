@@ -26,12 +26,14 @@ Can pricing insights be considered reliable given the dataset quality?
 The project follows a structured analytical workflow:
 
 1. Business Understanding
-Data Understanding
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Insights Generation
-Preparation for Visualization
-Dashboard Development
+2. Data Understanding
+3. Data Cleaning
+4. Exploratory Data Analysis (EDA)
+5. Insights Generation
+
+**Important:** Initially, the project's roadmap included advanced stages such as Insights Generation, Preparation for Visualization, and Dashboard Development. However, following a rigorous peer review and the incorporation of a Data Quality Assessment step, the technical direction shifted.
+
+During the Exploratory Data Analysis (Step 4) and initial Insights Generation (Step 5), a deep dive into the price distribution revealed that the dataset lacks the variance and complexity expected in a real-world real estate market. The data appears to be synthetic, showing an unnaturally uniform distribution. As a result, I decided to conclude the analysis at the diagnostic stage to maintain the integrity of the findings, as proceeding to visualization with non-representative data would lead to inaccurate economic conclusions.
 
 A data quality assessment step was incorporated to evaluate the reliability of key variables.
 ```python
